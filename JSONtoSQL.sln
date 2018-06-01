@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSONtoSQL", "JSONtoSQL\JSONtoSQL.csproj", "{7DB3CEAD-4B04-439E-89B4-46115C2C93FA}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report Project2", "Report Project2\Report Project2.rptproj", "{EDCB0B12-ED65-4729-93C6-10724698FF67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugLocal|Any CPU = DebugLocal|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB3CEAD-4B04-439E-89B4-46115C2C93FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB3CEAD-4B04-439E-89B4-46115C2C93FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB3CEAD-4B04-439E-89B4-46115C2C93FA}.DebugLocal|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB3CEAD-4B04-439E-89B4-46115C2C93FA}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
+		{7DB3CEAD-4B04-439E-89B4-46115C2C93FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB3CEAD-4B04-439E-89B4-46115C2C93FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCB0B12-ED65-4729-93C6-10724698FF67}.Debug|Any CPU.ActiveCfg = Debug
+		{EDCB0B12-ED65-4729-93C6-10724698FF67}.Debug|Any CPU.Build.0 = Debug
+		{EDCB0B12-ED65-4729-93C6-10724698FF67}.Debug|Any CPU.Deploy.0 = Debug
+		{EDCB0B12-ED65-4729-93C6-10724698FF67}.DebugLocal|Any CPU.ActiveCfg = DebugLocal
+		{EDCB0B12-ED65-4729-93C6-10724698FF67}.DebugLocal|Any CPU.Build.0 = DebugLocal
+		{EDCB0B12-ED65-4729-93C6-10724698FF67}.DebugLocal|Any CPU.Deploy.0 = DebugLocal
+		{EDCB0B12-ED65-4729-93C6-10724698FF67}.Release|Any CPU.ActiveCfg = Release
+		{EDCB0B12-ED65-4729-93C6-10724698FF67}.Release|Any CPU.Build.0 = Release
+		{EDCB0B12-ED65-4729-93C6-10724698FF67}.Release|Any CPU.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59168F51-BB3B-4FF5-A4B4-4B4153D0AB08}
+	EndGlobalSection
+EndGlobal
